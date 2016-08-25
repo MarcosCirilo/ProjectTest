@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeReach</string>
+    <string name="add">Digite a URL do servidor.</string>
+</resources>
